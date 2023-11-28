@@ -25,3 +25,7 @@ Nosso objetivo principal é proporcionar aos usuários, especialmente os idosos,
 ## Público-Alvo
 
 O aplicativo foi desenvolvido especialmente para atender às necessidades dos idosos, oferecendo informações essenciais de maneira simples, organizada e de fácil acesso, permitindo que eles adequem suas agendas para participar das atividades nas paróquias.
+
+
+### Links Importantes
+Link para WIKI do projeto: https://github.com/diocese-santos-org/diocese-santos-wiki
