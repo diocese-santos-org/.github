@@ -28,4 +28,7 @@ O aplicativo foi desenvolvido especialmente para atender às necessidades dos id
 
 
 ### Links Importantes
-Link para WIKI do projeto: https://github.com/diocese-santos-org/diocese-santos-wiki
+
+- WIKI do projeto: https://github.com/diocese-santos-org/diocese-santos-wiki
+- Front-End do projeto: https://github.com/diocese-santos-org/diocese-santos-front
+- Back-End do projeto: https://github.com/diocese-santos-org/diocese-santos-backend
